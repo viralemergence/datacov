@@ -13,9 +13,9 @@ In this repository you can find a cleaned, public-facing, simplified version of 
 
 Please cite both of the following:
 
-Lily E. Cohen, Anna C. Fagre, Binqi Chen, Colin J. Carlson, and Daniel J. Becker. (2022) **Sampling strategies and pre-pandemic surveillance gaps for bat coronaviruses**. Preprint DOI forthcoming.
+- Lily E. Cohen, Anna C. Fagre, Binqi Chen, Colin J. Carlson, and Daniel J. Becker. (2022) **Sampling strategies and pre-pandemic surveillance gaps for bat coronaviruses**. Preprint DOI forthcoming.
 
-Lily E. Cohen, Anna C. Fagre, Binqi Chen, Colin J. Carlson, and Daniel J. Becker. (2022) **datacov: An open database of bat coronavirus surveillance (1996 to 2018).** version 0.1. Downloaded from www.github.com/viralemergence/datacov on (...your date here...). DOI: 10.5281/zenodo.6644163.
+- Lily E. Cohen, Anna C. Fagre, Binqi Chen, Colin J. Carlson, and Daniel J. Becker. (2022) **datacov: An open database of bat coronavirus surveillance (1996 to 2018).** version 0.1. Downloaded from www.github.com/viralemergence/datacov on (...your date here...). DOI: 10.5281/zenodo.6644163.
  
 ### What's in the dataset
 
