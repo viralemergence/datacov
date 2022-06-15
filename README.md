@@ -1,7 +1,17 @@
 ## datacov: An open database of bat coronavirus surveillance (1996 to 2018)
 
-In this repository you can find a cleaned, public-facing, simplified version of the data used by [Cohen _et al._](https://github.com/viralemergence/batgap), "Sampling strategies and pre-pandemic surveillance gaps for bat coronaviruses"; the version of the dataset available here is intended for others to be able to use for their own research purposes. Please cite both the publication (preprint in review) and this repository (DOI forthcoming).
+[![DOI](https://zenodo.org/badge/503452822.svg)](https://zenodo.org/badge/latestdoi/503452822)
 
+In this repository you can find a cleaned, public-facing, simplified version of the data used by [Cohen _et al._](https://github.com/viralemergence/batgap), "Sampling strategies and pre-pandemic surveillance gaps for bat coronaviruses"; the version of the dataset available here is intended for others to be able to use for their own research purposes. 
+
+### If you use these data:
+
+Please cite both of the following:
+
+Lily E. Cohen, Anna C. Fagre, Binqi Chen, Colin J. Carlson, and Daniel J. Becker. (2022) **Sampling strategies and pre-pandemic surveillance gaps for bat coronaviruses**. Preprint DOI forthcoming.
+
+Lily E. Cohen, Anna C. Fagre, Binqi Chen, Colin J. Carlson, and Daniel J. Becker. (2022) datacov: An open database of bat coronavirus surveillance (1996 to 2018). version 0.1 Accessed (...your date here...). DOI: 10.5281/zenodo.6644163.
+ 
 ### What's in the dataset
 
 Each row of the dataset corresponds to the finest scale of disaggregated testing data we were able to identify based on reported sampling procedures. Each row has four fields that describe the accompanying publication:  
