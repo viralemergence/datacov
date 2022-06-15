@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/viralemergence/datacov/blob/main/Verena%20Icons_Datacov%20Colour.png" width="150">
+<img align="right" src="https://github.com/viralemergence/datacov/blob/main/Verena%20Icons_Datacov%20Colour.png" width="130">
 
 # datacov
 ## An open database of bat coronavirus surveillance (1996 to 2018)
