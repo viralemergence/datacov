@@ -1,6 +1,7 @@
 <img align="right" src="https://github.com/viralemergence/datacov/blob/main/Verena%20Icons_Datacov%20Colour.png" width="150">
 
-## datacov: An open database of bat coronavirus surveillance (1996 to 2018)
+# datacov
+## An open database of bat coronavirus surveillance (1996 to 2018)
 
 [![DOI](https://zenodo.org/badge/503452822.svg)](https://zenodo.org/badge/latestdoi/503452822)
 
