@@ -25,15 +25,15 @@ All other fields describe the actual bat coronavirus prevalence data, often with
 |  VirusGenus   |   _Alphacoronavirus_ or _Betacoronavirus_  |
 |  VirusSubgenus   |   Subgenus if available, e.g., _Colacovirus_, _Sarbecovirus_  |
 |  VirusStrain   |  Fine-scale viral identity, if available, e.g., "HKU8 related" |
-|  DetectionType   |   |
-|  StudyType   |    |
-|  DetectionMethod   |    |
-|  DetectionMethodSpecific   |    |
-|  PCRMethod   |    |
-|  GeneTarget   |    |
-|  GeneTargetDetailed   |    |
-|  Tissue   |    |
-|  Sample   |    |
+|  DetectionType   | Spatiotemporal scale of sampling: single (one site, one trip), repeat (same site over multiple trips), or pooled (multiple sites, multiple trips) |
+|  StudyType   |  Cross-sectional or longitudinal study   |
+|  DetectionMethod   |  Type of test used (e.g.,  PCR, ELISA)  |
+|  DetectionMethodSpecific   | Type of test used (more granular, if provided: e.g., hemi-nested PCR, RT-PCR, ELISA)    |
+|  PCRMethod   |  Type of PCR test used if applicable (single or multiple)  |
+|  GeneTarget   |  Coronavirus gene target of test, simplified (RdRp, Other, or both) |
+|  GeneTargetDetailed   |  More specific information on the coronavirus gene targeted (e.g., RdRp, ORF1b)  |
+|  Tissue   |  Tissues sampled (e.g.,  "faecal, rectal, or anal") |
+|  Sample   |   Type of sample (e.g., "swab", "faeces") |
 |  Country   |   Country of sampling site  |
 |  State   |  State or province of sampling site, if reported  |
 |  SamplingSite   |  Precise geospatial locality string data if reported  |
@@ -46,8 +46,8 @@ All other fields describe the actual bat coronavirus prevalence data, often with
 |  StartMonth   |  Beginning of collection interval (month) if collection occured over a longer period  |
 |  EndYear   |  End of collection interval (year) if collection occured over a longer period  |
 |  EndMonth   | End of collection interval (month) if collection occured over a longer period  |
-|  Summer   |  Was sampling reportedly in the summer season (some samples may be pooled across seasons)  |
-|  Fall   |  Was sampling reportedly in the autumn season (some samples may be pooled across seasons)  |
-|  Winter   |  Was sampling reportedly in the winter season (some samples may be pooled across seasons)  |
-|  Spring   |  Was sampling reportedly in the spring season (some samples may be pooled across seasons)  |
+|  Summer   |  Was sampling reportedly in the summer season (some samples may be pooled across seasons) - binary |
+|  Fall   |  Was sampling reportedly in the autumn season (some samples may be pooled across seasons) - binary  |
+|  Winter   |  Was sampling reportedly in the winter season (some samples may be pooled across seasons) - binary  |
+|  Spring   |  Was sampling reportedly in the spring season (some samples may be pooled across seasons) - binary  |
 |  TerminalSampling   |  Were any animals reported as being euthanized   |
