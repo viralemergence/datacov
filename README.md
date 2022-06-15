@@ -19,7 +19,7 @@ All other fields describe the actual bat coronavirus prevalence data, often with
 |  --------    |  --------------- |
 |  nSamples   |  The number of samples tested   |
 |  nPositive   |  The number of samples positive for coronaviruses (as identified below)  |
-|  Prevalence   |  Reported vor estimated values (should usually equal nPositive / nSamples)  |
+|  Prevalence   |  Reported or estimated values of coronavirus prevalence across samples (should usually equal nPositive / nSamples)  |
 |  Host   |  The bat host species or higher taxonomy identified  |
 |  nSpecies   |  The number of bat species tested (if samples were pooled)  |
 |  VirusGenus   |   _Alphacoronavirus_ or _Betacoronavirus_  |
