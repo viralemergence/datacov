@@ -25,7 +25,7 @@ All other fields describe the actual bat coronavirus prevalence data, often with
 |  VirusGenus   |   _Alphacoronavirus_ or _Betacoronavirus_  |
 |  VirusSubgenus   |   Subgenus if available, e.g., _Colacovirus_, _Sarbecovirus_  |
 |  VirusStrain   |  Fine-scale viral identity, if available, e.g., "HKU8 related" |
-|  DetectionType   | Spatiotemporal scale of sampling: single (one site, one trip), repeat (same site over multiple trips), or pooled (multiple sites, multiple trips) |
+|  DetectionType   | Detection type is split into three categories: 1) single (one estimate from a single, non-repeated sampling trip); 2) repeat (a single estimate where each repeated record represents one of multiple, longitudinal sampling trips to the same site); or 3) pooled (one estimate from the pooled results of multiple trips or sites) |
 |  StudyType   |  Cross-sectional or longitudinal study   |
 |  DetectionMethod   |  Type of test used (e.g.,  PCR, ELISA)  |
 |  DetectionMethodSpecific   | Type of test used (more granular, if provided: e.g., hemi-nested PCR, RT-PCR, ELISA)    |
