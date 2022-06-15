@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/viralemergence/datacov/blob/main/Verena%20Icons_Datacov%20Colour.png" width="300">
+<img align="right" src="https://github.com/viralemergence/datacov/blob/main/Verena%20Icons_Datacov%20Colour.png" width="300">
 
 # datacov
 ## An open database of bat coronavirus surveillance (1996 to 2018)
@@ -6,6 +6,8 @@
 [![DOI](https://zenodo.org/badge/503452822.svg)](https://zenodo.org/badge/latestdoi/503452822)
 
 In this repository you can find a cleaned, public-facing, simplified version of the data used by [Cohen _et al._](https://github.com/viralemergence/batgap), "Sampling strategies and pre-pandemic surveillance gaps for bat coronaviruses"; the version of the dataset available here is intended for others to be able to use for their own research purposes. 
+
+---
 
 ### Suggested citation:
 
